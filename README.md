@@ -5,5 +5,9 @@ AutomaticCoinSeparators
 <p>1. ESP32</p>
 <p>2. Counting Sensor Module FC-33</p>
 <hr>
-Result
-![image](https://github.com/pondminarak/AutomaticCoinSeparators/assets/125027100/6dd989c9-11ab-411c-8d70-b88ca4f9c6de)
+
+Result<br>
+![image](https://github.com/pondminarak/AutomaticCoinSeparators/assets/125027100/425ffd72-3fae-43d7-8208-16eaa60e98fb)
+
+
+
